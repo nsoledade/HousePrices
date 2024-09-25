@@ -4,3 +4,5 @@
 - Na Etapa 1 são eliminadas as colunas com mais de 90% de valores vazios. Os valores vazios restantes são substituídos por (-1).
 - Após seleciona-se apenas as colunas numéricas.
 - Os procedimentos acima são realizados para as bases treino e teste.
+
+**[Etapa 2: Abordagem dps valores vazios](https://github.com/nsoledade/HousePrices/blob/main/Etapa2.ipynb)
