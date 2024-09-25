@@ -5,4 +5,10 @@
 - Após seleciona-se apenas as colunas numéricas.
 - Os procedimentos acima são realizados para as bases treino e teste.
 
-**[Etapa 2: Abordagem dps valores vazios](https://github.com/nsoledade/HousePrices/blob/main/Etapa2.ipynb)
+**[Etapa 2: Abordagem dos valores vazios](https://github.com/nsoledade/HousePrices/blob/main/Etapa2.ipynb)
+- Apurando a quantidadae de valores vazios.
+- Verificando a correlaça7o entre  colunas.
+- Verificando correlação entre colunas e preços.
+- Escolha de indicadores estatísticos para substituir os valores vazios.
+- Definindo um limita para tratamento de colunas. As demais colunas serão tratadas na Etapa 3.
+
