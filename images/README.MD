@@ -4,7 +4,7 @@
 - Na Etapa 1 são eliminadas as colunas com mais de 90% de valores vazios. Os valores vazios restantes são substituídos por (-1).
 - Após seleciona-se apenas as colunas numéricas.
 - Os procedimentos acima são realizados para as bases treino e teste.
-- A Regressão Linear apresentou o menor *** Erro Quadrático Médio: 0,25476.
+- A Regressão Linear apresentou o menor **Erro Quadrático Médio: 0,2547**6.
 
 
 **[Etapa 2: Abordagem dos valores vazios](https://github.com/nsoledade/HousePrices/blob/main/Etapa2.ipynb)
