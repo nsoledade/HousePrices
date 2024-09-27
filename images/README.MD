@@ -19,3 +19,5 @@
 - Os algoritmos utilizados são: Regressão Linear, Árvore de Regressão e KneighborsRegressor.
 - A Regressão Linear apresentou o menor **Erro Quadrático Médio: 0,18120**.
 
+** [Etapa 3: Análise Exploratória]()
+
