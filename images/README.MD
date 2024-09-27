@@ -21,3 +21,4 @@
 
 ** [Etapa 3: Análise Exploratória](https://github.com/nsoledade/HousePrices/blob/main/Etapa3_1Modelos.ipynb)
 
+
