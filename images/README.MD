@@ -26,7 +26,7 @@
 - Veificacação de valores muito repetidos em colunas categóricas para elinação.
 - Utilização de funções para substituir valores textuais de colunas categóricas por números.
 - Utilização do OneHotEncoder e OrdinalEncoder para tratamento de colunas categóricas.
--Criaçao das bases com valores exclisivamente numéricos.
+-Criaçao das bases com valores exclusisivamente numéricos.
 
 
 
