@@ -20,13 +20,13 @@
 - A Regressão Linear apresentou o menor **Erro Quadrático Médio: 0,18120**.
 
 ** [Etapa 3: Análise Exploratória](https://github.com/nsoledade/HousePrices/blob/main/Etapa3_1Modelos.ipynb)
-- Nesta etapa busca-se observar o efeito do overfit dos algoritmos em relação as base treino e teste. São realizadas 2 abordagens. Na primeira trata-se algumas colunas
+- Nesta etapa busca-se observar o efeito do overfit dos algoritmos em relação as base treino e teste. São realizadas 2 abordagens. Na primeira trata-se algumas colunas. Na segunda um número adicional de colunas é tratado. O objetivo é comparar o **Erro Quadrático Médio** de ambas.
 - Os passos a seguir aplicam-se às bases treino e teste.
 - Verificação da correlac1ão entre as colunas numéricas.
 - Veificacação de valores muito repetidos em colunas categóricas para elinação.
 - Utilização de funções para substituir valores textuais de colunas categóricas por números.
 - Utilização do OneHotEncoder e OrdinalEncoder para tratamento de colunas categóricas.
-Criaçao das bases com valores exclisivamente numéricos.
+-Criaçao das bases com valores exclisivamente numéricos.
 
 
 
